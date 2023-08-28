@@ -1,0 +1,13 @@
+Deleting user data
+
+1. Data deletion procedure
+1.1 Deleting a user account: If you wish to delete your account in our application, you can do so by going to available in the application settings. After deleting your account, your personal data will be deleted from our system within a certain period of time in accordance with applicable laws.
+1.2 Deleting activity-related data: If you choose to delete your account, any data related to your activity, such as stories, messages, comments and others, will also be deleted.
+
+2. Storage of deleted data
+2.1 Retention period for deleted data: After deletion of your data, some information may be kept in our backups for a certain period of time in accordance with our security procedures. However, they will not be accessible or used for any other purpose.
+2.2 Deletion of Backup Data: We make every effort to also remove this data from our backups whenever possible.
+
+3. Data deletion contact
+3.1 Contact for data deletion: If you have any questions or requests regarding the deletion of your personal data, please contact us at [Contact Address]. We will try to respond to your requests in a timely manner.
+Please note that deleting your data may affect your access to certain features of the application and services that were previously available. Please make a thoughtful decision about deleting your account.
