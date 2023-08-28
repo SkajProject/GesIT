@@ -1,0 +1,47 @@
+Privacy Policy
+
+Date last updated: 28.08.2023
+
+Thank you for using our application. This Privacy Policy is intended to explain how we collect, process, store and share your personal information. Please read this document carefully to understand our privacy practices.
+
+1. collection of personal information
+
+1.1 Registration Data: When you register with our application, we may collect data such as your name, email address, phone number or other information you provide to us.
+
+1.2 Login Data: We may collect login data such as your IP address, date and time of login, information about the browser or device you are using.
+
+1.3 Usage Data: We store information about your use of our application, including activities, transactions, requests sent to our servers, interactions with other users, and other data related to your activity.
+
+2 Purpose of data collection
+
+2.1 Provision of services: We collect your personal information to provide the services available on our application and to manage your account.
+
+2.2 Personalization: We may use your data to personalize content and services in our application to suit your preferences.
+
+2.3 Analysis and research: We analyze your data to improve our services, conduct market research and monitor the performance of the application.
+
+3. data sharing
+
+3.1 Subcontractors: We may share your personal data with our subcontractors who help us provide services, such as payment service providers, hosting service providers, etc.
+
+3.2 Collaborators: We may share data with business partners to provide joint services or promotions.
+
+3.3 Legal requirements: We may disclose your personal information if required to do so by applicable laws or to protect our rights or the safety or rights of other users.
+
+4 Data security
+
+We take care of the security of your personal information and take appropriate technical and organizational measures to protect it from unauthorized access, loss or unauthorized disclosure.
+
+5 Your rights
+
+You have the right to access, correct, delete or limit the processing of your personal data. You can also withdraw your consent to the processing of your data at any time. To exercise these rights, please contact us at [Contact Address].
+
+6 Changes to the Privacy Policy
+
+The Privacy Policy is subject to change due to the development of our application. Any changes will be published on our website or app, and the date of the last update will be changed. Please check our Privacy Policy regularly.
+
+7 Contact Us
+
+If you have any questions or concerns about our Privacy Policy, please contact us at SkajProject@gmail.com
+
+Thank you for your trust and use of our app!
