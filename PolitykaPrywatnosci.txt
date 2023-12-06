@@ -21,6 +21,8 @@ Jakie dane przetwarzamy?
         3.3 ranking
         3.4 elementy personalizujące profil
 
+
+
 W serwisie GesIT będzie widoczna wyłącznie twoja nazwa użytkownika.
 
 Dane są przechowywane aż do usunięcia konta, zawsze masz prawo do dostępu do swoich danych osobowych, ich sprostowania, usunięcia lub ograniczenia przetwarzania. W celu usunięcia konta oraz danych prosimy skontaktować się poprzez formy kontaktu zawarte w naszym serwisie. Po otrzymaniu prośby o usunięcie konta oraz danych z nim powiązanych wszystkie informacje zostaną usunięte do 30 dni roboczych.
