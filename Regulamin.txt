@@ -1,47 +1,59 @@
-Regulamin
+REGULAMIN SERWISU GESIT
 
-Data ostatniej aktualizacji: 05.12.2023
+§1 DEFINICJE
 
-Thank you for using our application. This Privacy Policy is intended to explain how we collect, process, store and share your personal information. Please read this document carefully to understand our privacy practices.
+  1. REGULAMIN – niniejszy Regulamin.
+  2. SERWIS – zestaw narzędzi umożliwiających użytkownikowi zdobywanie punktów.
+  3. KONTO – indywidualne konto tworzone dla użytkownika, umożliwiające korzystanie z serwisu.
+  4. UŻYTKOWNIK – osoba, która korzysta z serwisu.
+  5. PUNKTY – punkty zebrane przez użytkownika w serwisie GesIT.
+  6. ZADANIE – określona czynność wykonana przez użytkownika, nagradzana wyznaczoną ilością punktów.
+  7. USŁUGODAWCA – założyciel serwisu GesIT.
 
-1. collection of personal information
+§2 UŻYTKOWNIK SERWISU
 
-1.1 Registration Data: When you register with our application, we may collect data such as your name, email address, phone number or other information you provide to us.
+  1. Użytkownikiem serwisu może być osoba, która dokonała rejestracji, co obejmuje:
+    1.1. Wypełnienie formularza rejestracyjnego poprzez podanie adresu e-mail oraz hasła.
+    1.2. Akceptację Regulaminu oraz wyrażenie zgody na przetwarzanie danych osobowych przez usługodawcę w celu umożliwienia korzystania z serwisu.
 
-1.2 Login Data: We may collect login data such as your IP address, date and time of login, information about the browser or device you are using.
+§3 KORZYSTANIE Z KONTA ORAZ ZARZĄDZANIE
 
-1.3 Usage Data: We store information about your use of our application, including activities, transactions, requests sent to our servers, interactions with other users, and other data related to your activity.
+  1. Użytkownik posiada możliwość zarządzania swoim kontem za pomocą dostępnych narzędzi w serwisie.
+  2. Po dokonaniu rejestracji użytkownik otrzymuje dostęp do panelu, w którym może edytować nazwę użytkownika.
+  3. Adres e-mail użyty do rejestracji konta nie może być zmieniany.
+  4. Użytkownik ma możliwość zmiany hasła.
+  5. Zakazuje się udostępniania konta osobom trzecim. Użytkownik ponosi całą odpowiedzialność za ochronę hasła do konta oraz za wszelkie skutki wynikające z udostępnienia go osobom trzecim.
+  6. Zakazuje się rejestracji więcej niż jednego konta w serwisie GesIT; użytkownik może posiadać jedynie jedno konto. W przypadku posiadania więcej niż jednego konta, usługodawca ma prawo usunąć konto lub wyzerować zebrane punkty.
+  7. Użytkownik ma dostęp do listy użytkowników, która jest sortowana według ilości posiadanych punktów.
+  8. Użytkownik wyraża zgodę na udostępnianie innym użytkownikom swojej nazwy użytkownika oraz ilości posiadanych punktów w celu prawidłowego funkcjonowania listy użytkowników.
+  9. Użytkownik, rejestrując się w serwisie, potwierdza, że będzie korzystał z serwisu w Polsce.
+  10. Usługodawca ma prawo zablokować konto użytkownika, wyzerować punkty, nałożyć ograniczenia lub zawiesić wypłacanie nagród.
+  11. Użytkownik akceptujący regulamin zgadza się na podjęcie przez usługodawcę czynności sprawdzających wiarygodność użytkownika.
 
-2 Purpose of data collection
+§4 ZBIERANIE ORAZ WYMIANA PUNKTÓW NA NAGRODY
 
-2.1 Provision of services: We collect your personal information to provide the services available on our application and to manage your account.
+  1. Użytkownik ma możliwość uzyskania określonej ilości punktów poprzez wykonywanie zadań oraz podejmowanie innych aktywności widniejących w serwisie, np. codzienne logowanie, polecanie serwisu.
+  2. Wymiana punktów na nagrody odbywa się poprzez formularz znajdujący się w zakładce serwisu lub komunikatorze serwisu.
+  3. Podczas wymiany punktów użytkownik musi wybrać konkretną nagrodę, na którą posiada wymaganą ilość punktów.
+  4. Nagrody stanowią treści cyfrowe i są dostarczane użytkownikowi w ciągu 48 godzin od wysłania formularza wymiany. Czas dostarczenia nagrody może się przedłużyć do 14 dni roboczych, o czym użytkownicy są informowani poprzez media społecznościowe serwisu.
+  5. Wypełnienie formularza skutkuje utratą określonej ilości posiadanych punktów w serwisie.
+  6. Punkty zgromadzone przez użytkownika mogą być wykorzystane tylko w celu uzyskania nagród dostępnych w serwisie i nie mogą być wypłacane jako realny środek płatniczy.
+  7. Usługodawca zastrzega sobie prawo do odmowy odbioru nagrody, jeśli użytkownik nie zastosował się do punktów niniejszego regulaminu.
+  8. Punkty są nietransferowalne.
+  9. Organizator nie ponosi odpowiedzialności za błędy w realizacji transakcji, gdy użytkownik popełni błąd w formularzu.
 
-2.2 Personalization: We may use your data to personalize content and services in our application to suit your preferences.
+§5 OBOWIĄZKI UŻYTKOWNIKA
 
-2.3 Analysis and research: We analyze your data to improve our services, conduct market research and monitor the performance of the application.
+  1. Akceptując ten regulamin, poświadczasz, że nie będziesz wykonywać następujących czynności:
+    1.1. Kopiować, modyfikować ani rozpowszechniać treści tworzonych przez inne osoby bez ich oraz naszej wyraźnej, pisemnej zgody.
+    1.2. Tworzyć, używać lub rozpowszechniać programów komputerowych typu "auto" lub "makro" oraz innych oszukańczych programów.
+    1.3. Używać nieprawdziwych informacji, używać konta innego użytkownika lub podszywać się pod tożsamość innej osoby.
+    1.4. Korzystać w sposób nieprawidłowy z zakładki kontakt.
 
-3. data sharing
+§6 POSTANOWIENIA KOŃCOWE
 
-3.1 Subcontractors: We may share your personal data with our subcontractors who help us provide services, such as payment service providers, hosting service providers, etc.
-
-3.2 Collaborators: We may share data with business partners to provide joint services or promotions.
-
-3.3 Legal requirements: We may disclose your personal information if required to do so by applicable laws or to protect our rights or the safety or rights of other users.
-
-4 Data security
-
-We take care of the security of your personal information and take appropriate technical and organizational measures to protect it from unauthorized access, loss or unauthorized disclosure.
-
-5 Your rights
-
-You have the right to access, correct, delete or limit the processing of your personal data. You can also withdraw your consent to the processing of your data at any time. To exercise these rights, please contact us at [Contact Address].
-
-6 Changes to the Privacy Policy
-
-The Privacy Policy is subject to change due to the development of our application. Any changes will be published on our website or app, and the date of the last update will be changed. Please check our Privacy Policy regularly.
-
-7 Contact Us
-
-If you have any questions or concerns about our Privacy Policy, please contact us at SkajProject@gmail.com
-
-Thank you for your trust and use of our app!
+  1. Niniejsze Warunki obowiązują od dnia 18 października 2023 roku.
+  2. Usługodawca zastrzega sobie prawo do zmiany regulaminu bez informowania użytkowników.
+  3. Organizator ma prawo zawiesić działanie serwisu, o czym uprzednio informuje użytkowników, wskazując także przybliżony czas zawieszenia. Informacja nie jest konieczna, jeśli zawieszenie wynika z nagłych lub nieprzewidzianych okoliczności, np. awarii lub usterki w działaniu systemu.
+  4. W przypadku niezgodności jakiejkolwiek części Regulaminu z obowiązującym prawem, zastosowanie mają właściwe przepisy prawa polskiego.
+  5. Uczestnik może w każdym czasie wyrejestrować się z serwisu, składając oświadczenie w formie elektronicznej.
