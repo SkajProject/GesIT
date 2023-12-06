@@ -1,47 +1,32 @@
-Privacy Policy
+POLITYKA PRYWATNOŚCI
 
-Date last updated: 13.10.2023
+GesIT dołożyło wszelkich starań, aby zabezpieczyć dane osobowe swoich użytkowników oraz przedstawić im najważniejsze założenia praw im przysługujących.
 
-Thank you for using our application. This Privacy Policy is intended to explain how we collect, process, store and share your personal information. Please read this document carefully to understand our privacy practices.
+Jakie dane przetwarzamy?
 
-1. collection of personal information
+    1. Dane potrzebne do rejestracji oraz funkcjonowania konta:
+        1.1 e-mail
+        1.2 hasło
+        1.3 nazwa użytkownika
 
-1.1 Registration Data: When you register with our application, we may collect data such as your name, email address, phone number or other information you provide to us.
+    2. Dane zbierane po rejestracji:
+        2.1 adres IP
+        2.2 data ostatniego logowania
+        2.3 data ostatnich odwiedzin
+        2.4 data założenia konta
 
-1.2 Login Data: We may collect login data such as your IP address, date and time of login, information about the browser or device you are using.
+    3. Dane techniczne:
+        3.1 ID użytkownika
+        3.2 aktywność
+        3.3 ranking
+        3.4 elementy personalizujące profil
 
-1.3 Usage Data: We store information about your use of our application, including activities, transactions, requests sent to our servers, interactions with other users, and other data related to your activity.
+W serwisie GesIT będzie widoczna wyłącznie twoja nazwa użytkownika.
 
-2 Purpose of data collection
+Dane są przechowywane aż do usunięcia konta, zawsze masz prawo do dostępu do swoich danych osobowych, ich sprostowania, usunięcia lub ograniczenia przetwarzania. W celu usunięcia konta oraz danych prosimy skontaktować się poprzez formy kontaktu zawarte w naszym serwisie. Po otrzymaniu prośby o usunięcie konta oraz danych z nim powiązanych wszystkie informacje zostaną usunięte do 30 dni roboczych.
 
-2.1 Provision of services: We collect your personal information to provide the services available on our application and to manage your account.
+Przetwarzanie danych jest niezbędne do prawidłowego działania wszystkich funkcji serwisu, aby uzyskać pomoc związaną z danymi osobowymi, prosimy o kontakt poprzez formy kontaktu zawarte w naszym serwisie.
 
-2.2 Personalization: We may use your data to personalize content and services in our application to suit your preferences.
+Administrator stosuje środki techniczne i organizacyjne zapewniające ochronę przetwarzanych danych osobowych, tym samym zabezpiecza dane przed ich udostępnieniem osobom nieupoważnionym. Jeśli chciałbyś otrzymać więcej wyjaśnień lub poprosić o wgląd, edycję lub usunięcie twoich danych osobowych możesz skontaktować się z nami poprzez e-mail SkajProject@gmail.com
 
-2.3 Analysis and research: We analyze your data to improve our services, conduct market research and monitor the performance of the application.
-
-3. data sharing
-
-3.1 Subcontractors: We may share your personal data with our subcontractors who help us provide services, such as payment service providers, hosting service providers, etc.
-
-3.2 Collaborators: We may share data with business partners to provide joint services or promotions.
-
-3.3 Legal requirements: We may disclose your personal information if required to do so by applicable laws or to protect our rights or the safety or rights of other users.
-
-4 Data security
-
-We take care of the security of your personal information and take appropriate technical and organizational measures to protect it from unauthorized access, loss or unauthorized disclosure.
-
-5 Your rights
-
-You have the right to access, correct, delete or limit the processing of your personal data. You can also withdraw your consent to the processing of your data at any time. To exercise these rights, please contact us at [Contact Address].
-
-6 Changes to the Privacy Policy
-
-The Privacy Policy is subject to change due to the development of our application. Any changes will be published on our website or app, and the date of the last update will be changed. Please check our Privacy Policy regularly.
-
-7 Contact Us
-
-If you have any questions or concerns about our Privacy Policy, please contact us at SkajProject@gmail.com
-
-Thank you for your trust and use of our app!
+W sprawach nieuregulowanych niniejszą Polityką prywatności stosuje się odpowiednio przepisy RODO oraz inne właściwe przepisy prawa polskiego.
