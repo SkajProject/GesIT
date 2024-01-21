@@ -57,3 +57,4 @@ REGULAMIN SERWISU GESIT
   3. Organizator ma prawo zawiesić działanie serwisu, o czym uprzednio informuje użytkowników, wskazując także przybliżony czas zawieszenia. Informacja nie jest konieczna, jeśli zawieszenie wynika z nagłych lub nieprzewidzianych okoliczności, np. awarii lub usterki w działaniu systemu.
   4. W przypadku niezgodności jakiejkolwiek części Regulaminu z obowiązującym prawem, zastosowanie mają właściwe przepisy prawa polskiego.
   5. Uczestnik może w każdym czasie wyrejestrować się z serwisu, składając oświadczenie w formie elektronicznej.
+  6. Organizator nie posiada obowiązku wypłaty punktów gdy użytkownik naruszy punkt znajdujący się w regulaminie serwisu.
