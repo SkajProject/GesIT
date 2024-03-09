@@ -1,4 +1,4 @@
-REGULAMIN SERWISU GESIT
+REGULAMIN SERWISU EzCash
 
 §1 DEFINICJE
 
@@ -6,9 +6,9 @@ REGULAMIN SERWISU GESIT
   2. SERWIS – zestaw narzędzi umożliwiających użytkownikowi zdobywanie punktów.
   3. KONTO – indywidualne konto tworzone dla użytkownika, umożliwiające korzystanie z serwisu.
   4. UŻYTKOWNIK – osoba, która korzysta z serwisu.
-  5. PUNKTY – punkty zebrane przez użytkownika w serwisie GesIT.
+  5. PUNKTY – punkty zebrane przez użytkownika w serwisie EzCash.
   6. ZADANIE – określona czynność wykonana przez użytkownika, nagradzana wyznaczoną ilością punktów.
-  7. USŁUGODAWCA – założyciel serwisu GesIT.
+  7. USŁUGODAWCA – założyciel serwisu EzCash.
 
 §2 UŻYTKOWNIK SERWISU
 
@@ -23,7 +23,7 @@ REGULAMIN SERWISU GESIT
   3. Adres e-mail użyty do rejestracji konta nie może być zmieniany.
   4. Użytkownik ma możliwość zmiany hasła.
   5. Zakazuje się udostępniania konta osobom trzecim. Użytkownik ponosi całą odpowiedzialność za ochronę hasła do konta oraz za wszelkie skutki wynikające z udostępnienia go osobom trzecim.
-  6. Zakazuje się rejestracji więcej niż jednego konta w serwisie GesIT; użytkownik może posiadać jedynie jedno konto. W przypadku posiadania więcej niż jednego konta, usługodawca ma prawo usunąć konto lub wyzerować zebrane punkty.
+  6. Zakazuje się rejestracji więcej niż jednego konta w serwisie EzCash; użytkownik może posiadać jedynie jedno konto. W przypadku posiadania więcej niż jednego konta, usługodawca ma prawo usunąć konto lub wyzerować zebrane punkty.
   7. Użytkownik ma dostęp do listy użytkowników, która jest sortowana według ilości posiadanych punktów.
   8. Użytkownik wyraża zgodę na udostępnianie innym użytkownikom swojej nazwy użytkownika oraz ilości posiadanych punktów w celu prawidłowego funkcjonowania listy użytkowników.
   9. Użytkownik, rejestrując się w serwisie, potwierdza, że będzie korzystał z serwisu w Polsce.
