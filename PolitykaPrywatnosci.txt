@@ -1,6 +1,6 @@
 POLITYKA PRYWATNOŚCI
 
-GesIT dołożyło wszelkich starań, aby zabezpieczyć dane osobowe swoich użytkowników oraz przedstawić im najważniejsze założenia praw im przysługujących.
+EzCash dołożyło wszelkich starań, aby zabezpieczyć dane osobowe swoich użytkowników oraz przedstawić im najważniejsze założenia praw im przysługujących.
 
 Jakie dane przetwarzamy?
 
@@ -23,7 +23,7 @@ Jakie dane przetwarzamy?
 
 
 
-W serwisie GesIT będzie widoczna wyłącznie twoja nazwa użytkownika.
+W serwisie EzCash będzie widoczna wyłącznie twoja nazwa użytkownika.
 
 Dane są przechowywane aż do usunięcia konta, zawsze masz prawo do dostępu do swoich danych osobowych, ich sprostowania, usunięcia lub ograniczenia przetwarzania. W celu usunięcia konta oraz danych prosimy skontaktować się poprzez formy kontaktu zawarte w naszym serwisie. Po otrzymaniu prośby o usunięcie konta oraz danych z nim powiązanych wszystkie informacje zostaną usunięte do 30 dni roboczych.
 
