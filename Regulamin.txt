@@ -29,6 +29,8 @@ REGULAMIN SERWISU EzCash
   9. Użytkownik, rejestrując się w serwisie, potwierdza, że będzie korzystał z serwisu w Polsce.
   10. Usługodawca ma prawo zablokować konto użytkownika, wyzerować punkty, nałożyć ograniczenia lub zawiesić wypłacanie nagród.
   11. Użytkownik akceptujący regulamin zgadza się na podjęcie przez usługodawcę czynności sprawdzających wiarygodność użytkownika.
+  12. Używanie niecenzuralnych słów w nazwie użytkownika lub kodzie poleceń skutkuje zablokowaniem konta.
+
 
 §4 ZBIERANIE ORAZ WYMIANA PUNKTÓW NA NAGRODY
 
